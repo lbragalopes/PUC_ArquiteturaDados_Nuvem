@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/83672645/224572801-4fdee6ec-d753-40ef-9f40-095e74f7c922.png)
+![image](https://user-images.githubusercontent.com/83672645/224572878-9a2556b7-15d2-4462-9116-8835c2d1628d.png)
+# Arquitetura de dados em nuvem
 
 [Etapa 1 - Definição do problema](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/blob/main/Etapa1.md "Etapa 1 - Definição do problema")
 
