@@ -24,9 +24,9 @@ Com o Decreto nº 10.197, de 2 de janeiro de 2020, a plataforma digital foi elev
 
 No entanto, apesar de todos os benefícios da plataforma, muitos consumidores não possuem conhecimento da sua utilidade, devido à falta de divulgação das resoluções realizadas com sucesso.
 
-Apesar da disponibilização dos relatórios contento as principais informações públicas relacionadas à plataforma, as informações não são de fácil visualização, bem como não é possível identificar o percentual de soluções por regiões.
+Apesar da disponibilização dos relatórios contendo as principais informações públicas relacionadas à plataforma, as informações não são de fácil visualização, bem como não é possível identificar o percentual de soluções por regiões.
 
-Identificando algumas carências presentes nos relatórios disponibilizados, o objetivo do projeto será utilizar os dados abertos fornecidos mensalmente pela plataforma Consumidor.gov.br, criando uma arquitetura para os dados em nuvem, conforme as etapas propostas no decorrer do projeto.
+Identificando algumas carências presentes nos relatórios disponibilizados, o objetivo do projeto será realizar a análise dos dados, utilizando os dados abertos fornecidos mensalmente pela plataforma Consumidor.gov.br, criando uma arquitetura para os dados em nuvem, conforme as etapas propostas no decorrer do projeto. 
 
 
 
