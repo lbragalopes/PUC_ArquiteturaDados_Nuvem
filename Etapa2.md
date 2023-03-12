@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/83672645/224572752-119ed1f7-01d0-4718-b391-79d3a90eb119.png)
+
 # Etapa 2 - Coleta de Dados
 	
 A Política de Dados Abertos do poder executivo federal, instituída pelo Decreto nº 8.777, de 11 de maio de 2016, tem por objetivo promover a publicação e disseminação de dados contidos em bases de órgãos e entidades da administração pública federal direta, autárquica e fundacional. Desta maneira, as informações de interesse coletivo, que antes ficavam restritas ao âmbito da administração pública, passam a ser acessíveis a toda a sociedade no formato de dados abertos, visando o aprimoramento da cultura da transparência, do controle social e da inovação. 
