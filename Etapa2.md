@@ -1,4 +1,4 @@
-## 2- Coleta de Dados
+# Etapa 2 - Coleta de Dados
 	
 A Política de Dados Abertos do poder executivo federal, instituída pelo Decreto nº 8.777, de 11 de maio de 2016, tem por objetivo promover a publicação e disseminação de dados contidos em bases de órgãos e entidades da administração pública federal direta, autárquica e fundacional. Desta maneira, as informações de interesse coletivo, que antes ficavam restritas ao âmbito da administração pública, passam a ser acessíveis a toda a sociedade no formato de dados abertos, visando o aprimoramento da cultura da transparência, do controle social e da inovação. 
 
@@ -30,14 +30,11 @@ Após a execução bem-sucedida do script "coletadados.py", todos os arquivos re
 
 Dessa forma, adotamos práticas e políticas que asseguram a qualidade e confiabilidade no armazenamento dos dados no AWS S3, garantindo a conformidade com as regulamentações e políticas de governança de dados.
 
-#### Referências:
-Amazon Web Services Documentation. Disponível em: https://docs.aws.amazon.com/. Acesso em: 27 fev. 2023.
 
-Lei nº 13709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados.
+***Referências***:
 
-Luiz Barbosa, Wellington, Shayer Lyra, Roberto - Governança de Dados. Enad. Módulo 1. Disponível em: https://repositorio.enap.gov.br/handle/1/5008.  Acesso em: 09 mar. 2023.
-
-Ministério da Justiça – Plano de dados abertos. Disponível em: https://www.gov.br/mj/pt-br/acesso-a-informacao/dados-abertos/pda-mjsp-2022.pdf. Acesso em: 03 mar. 2023.
-
-Python documentation. Disponível em: https://docs.python.org/3/library/functions.html. Acesso em: 12 mar. 2023.
+- https://docs.aws.amazon.com/
+- https://repositorio.enap.gov.br/handle/1/5008
+- https://www.gov.br/mj/pt-br/acesso-a-informacao/dados-abertos/pda-mjsp-2022.pdf
+- https://docs.python.org/3/library/functions.html
 
