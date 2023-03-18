@@ -12,7 +12,7 @@ Governança de Dados, segundo consta no Inciso VI do Art. 2º da Portaria STI/MP
 
 Com o objetivo de garantir a gestão adequada dos dados e, consequentemente, a conformidade com as políticas e regulamentação de governança de dados, realizamos a coleta de dados de forma automatizada, utilizando a linguagem Python. 
 
-A coleta de dados automatizada permite que os dados sejam armazenados de forma consistente e padronizada, minimizando a possibilidade do armazenamento de dados incorretos ou duplicados. Realizamos o armazenamento dos dados no serviço em nuvem S3 da Amazon, seguindo os seguintes passos:
+A coleta de dados automatizada permite que os dados sejam armazenados de forma consistente e padronizada, minimizando a possibilidade do armazenamento de dados incorretos ou duplicados. Realizamos o armazenamento dos dados no serviço em nuvem S3 da AWS, seguindo os seguintes passos:
 
 1º) Criação de um arquivo Excel (caminho-dados-hisoricos.xlsx) contendo os endereços dos dados disponibilizados no website Dados.MJ, com o objetivo de ser lido para ser lido por um script Python.  
 ![image](https://user-images.githubusercontent.com/83672645/224571606-c5d738c9-3e4f-4e4a-a514-8f05b431c5b4.png)
