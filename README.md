@@ -5,3 +5,5 @@
 
 [Etapa 2 - Coleta de Dados](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/blob/main/Etapa2.md "Etapa 2 - Coleta de dados")
 
+[Etapa 3 - Pré-processamento de dados](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/blob/main/Etapa3.md "Etapa 2 - Coleta de dados")
+
