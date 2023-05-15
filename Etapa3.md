@@ -19,6 +19,7 @@
   Utilizamos o notebook do Databricks para ler os arquivos históricos armazenados no diretório raw_db do bucket S3, executamos as transformações, e em seguida salvamos os dados transformados de forma particionada em um novo diretório do S3 chamado ref_db. 
 
   É possível identificar no notebook (script na pasta preprocessamento) que utilizamos a biblioteca PySpark para ler o conjunto de arquivos csv. Uma das principais vantagens de utilizar o PySpark é a escalabilidade horizontal e a capacidade de processamento em grande escala. Além disso, o PySpark oferece uma API em Python, que permite realizar tarefas de análise de dados, modelagem e machine learning em grande escala.
+  
 ![image](https://user-images.githubusercontent.com/83672645/230124166-19b9de78-3d15-404a-83cf-d73b8c01a34d.png)
 
 É possível verificar no bucket S3 a presença do diretório ref_db, após a execução do código. 
