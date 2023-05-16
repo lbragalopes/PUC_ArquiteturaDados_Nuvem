@@ -76,7 +76,13 @@ Após transformar o tipo dos dados para adequá-los aos modelos de aprendizado, 
 
 ![image](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/assets/83672645/ef7ebe9e-a270-4a49-a81a-f1a2a6f7eba4)
 
-*Segue o notebook completo na pasta: aprandizado_maquina*
+*Segue o notebook completo 'Modelos_Regressao' na pasta: aprandizado_maquina*
+
+***Referências:***
+ - MLflow Documentation – Disponível em: https://www.mlflow.org/. Acesso em: 09 de maio. 2023
+ - Regressão Linear: https://spark.apache.org/docs/latest/ml-classification-regression.html#linear-regression
+ - Random Forest: https://spark.apache.org/docs/latest/ml-classification-regression.html#random-forest-regression
+ - Gradient Boosting Machine: https://spark.apache.org/docs/latest/ml-classification-regression.html#gradient-boosted-tree-regression
 
 
 
