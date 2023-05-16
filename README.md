@@ -7,3 +7,5 @@
 
 [Etapa 3 - Pré-processamento de dados](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/blob/main/Etapa3.md "Etapa 3 - Pré-processamento de dados")
 
+[Etapa 4 - Aprendizagem de Máquina](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/blob/main/Etapa4.md "Etapa 4 - Aprendizagem de Máquina")
+
