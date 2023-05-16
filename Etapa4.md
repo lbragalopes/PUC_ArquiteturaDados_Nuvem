@@ -79,7 +79,7 @@ Após transformar o tipo dos dados para adequá-los aos modelos de aprendizado, 
 *Segue o notebook completo 'Modelos_Regressao' na pasta: aprandizado_maquina*
 
 ***Referências:***
- - MLflow Documentation – Disponível em: https://www.mlflow.org/. Acesso em: 09 de maio. 2023
+ - MLflow Documentation: https://www.mlflow.org/
  - Regressão Linear: https://spark.apache.org/docs/latest/ml-classification-regression.html#linear-regression
  - Random Forest: https://spark.apache.org/docs/latest/ml-classification-regression.html#random-forest-regression
  - Gradient Boosting Machine: https://spark.apache.org/docs/latest/ml-classification-regression.html#gradient-boosted-tree-regression
