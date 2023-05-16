@@ -76,7 +76,7 @@ Após transformar o tipo dos dados para adequá-los aos modelos de aprendizado, 
 
 ![image](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/assets/83672645/ef7ebe9e-a270-4a49-a81a-f1a2a6f7eba4)
 
-*Segue o notebook completo 'Modelos_Regressao' na pasta: aprandizado_maquina*
+*Segue o notebook completo 'Modelos_Regressao' na pasta: [aprendizado_maquina](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/aprendizado_maquina/Modelos_Regressao.ipynb)*
 
 ***Referências:***
  - MLflow Documentation: https://www.mlflow.org/
