@@ -78,6 +78,26 @@ Após transformar o tipo dos dados para adequá-los aos modelos de aprendizado, 
 
 *Segue o notebook completo 'Modelos_Regressao' na pasta: [aprendizado_maquina](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/aprendizado_maquina/Modelos_Regressao.ipynb)*
 
+Utilizando a métrica de erro médio (MSE), os experimentos apresentaram o seguinte resultado:
+•	Regressão Linear: 3.090
+•	Random Forest: 3.066
+•	GBM: 3.045
+
+Com relação ao MSE, podemos afirmar que o modelo GBM apresentou o menor MSE, indicando que possui a menor média de erros quadráticos em relação aos dados de teste. 
+
+Utilizando a métrica erro médio quadrático da raiz (RMSE), os experimentos apresentaram o seguinte resultado:
+• Regressão Linear: 1.758
+• Random Forest: 1.751
+• GBM: 1.745
+
+Da mesma forma, o menor valor de RMSE indica um desempenho melhor do modelo em termos de minimização do erro, considerando a raiz quadrada do erro.
+Comparando os resultados dos experimentos, podemos afirmar que com base nos valores de MSE e RMSE fornecidos, o modelo GBM parece ter o melhor desempenho em termos de minimização do erro em comparação com os modelos de Regressão Linear e Random Forest.
+
+![image](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/assets/83672645/da80f9d8-54ce-4f30-97dc-907b12c9227d)
+
+
+
+
 ***Referências:***
  - MLflow Documentation: https://www.mlflow.org/
  - Regressão Linear: https://spark.apache.org/docs/latest/ml-classification-regression.html#linear-regression
