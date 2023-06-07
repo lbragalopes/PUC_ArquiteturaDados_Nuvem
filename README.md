@@ -9,3 +9,5 @@
 
 [Etapa 4 - Aprendizagem de Máquina](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/blob/main/Etapa4.md "Etapa 4 - Aprendizagem de Máquina")
 
+[Etapa 5 - Aprendizagem de Máquina](https://github.com/lbragalopes/PUC_ArquiteturaDados_Nuvem/blob/main/Etapa5.md "Etapa 5 - Análise dos Resultados")
+
