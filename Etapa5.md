@@ -23,3 +23,5 @@ O gráfico acima permite visualizar como as previsões do modelo estão se aprox
 
 Com base na análise dos resultados dos modelos de regressão, concluímos que os três algoritmos - Random Forest, Regressão Linear e Gradient Boosted Trees - tiveram um desempenho semelhante em relação às métricas MSE e RMSE. Isso indica que eles foram capazes de ajustar os dados e fazer previsões com níveis comparáveis de precisão.
 Ao explorar os dados e os resultados dos modelos, observamos que as previsões do modelo de regressão linear apresentaram uma tendência de se aproximar dos valores reais de forma consistente, independentemente dos valores reais. 
+
+**Segue o notebook completo 'Analise_resultados' na pasta: [Analise_resultado]
